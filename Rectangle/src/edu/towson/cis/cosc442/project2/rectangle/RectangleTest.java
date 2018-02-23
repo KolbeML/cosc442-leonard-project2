@@ -12,7 +12,7 @@ import org.junit.Test;
 public class RectangleTest {
 	
 	/** Declaring necessary test objects for {@link Rectangle} */
-	Rectangle rect1, rect2;
+	Rectangle rect1, rect2, rect3;
 
 	/**
 	 * Initializes the necessary test objects for the test cases to use.
